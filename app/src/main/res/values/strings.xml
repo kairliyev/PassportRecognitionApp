@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">hday</string>
+    <string name="noResult">no result</string>
+    <string name="retry">retry</string>
+    <string name="ocr_error">occured _ error</string>
+    <string name="ocr_failure">failure</string>
+    <string name="ocr_success">success</string>
+    <string name="ocr_header">header</string>
+    <string name="read_text">read</string>
+    <string name="auto_focus">auto focus</string>
+    <string name="use_flash">use flash</string>
+    <string name="permission_camera_rationale">permissi</string>
+    <string name="ok">ok</string>
+    <string name="low_storage_error">low stor</string>
+    <string name="no_camera_permission">no permission</string>
+    <string name="create_an_team_Str">Создать команду</string>
+    <string name="section">Секция</string>
+    <string name="name_team">Названия команды</string>
+    <string name="тфьу">Имя</string>
+    <string name="name">Имя</string>
+    <string name="family">Фамилия</string>
+</resources>
