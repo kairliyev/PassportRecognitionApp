@@ -17,5 +17,5 @@ The application was created in the hackathon to automate the registration of par
 
 ### Install
 ```
-git clone https://github.com/kairliyev/DecoApp.git
+just clone it:)
 ```
